@@ -1,0 +1,1 @@
+<p style="margin: 0 30px">Nome: Bruno | Time: Palmeiras | Idade: 19</p><br><p style="margin: 0 30px">Nome: Vitor | Time: São Paulo | Idade: 90</p><br><p style="margin: 0 30px">Nome: Thainá | Time: Vasco da Gama | Idade: 65</p><br>
